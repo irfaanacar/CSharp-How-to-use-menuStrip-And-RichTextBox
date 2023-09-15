@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\bin\Debug\MenüStripVeRichTextBoxKullanimi.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\bin\Debug\MenüStripVeRichTextBoxKullanimi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\bin\Debug\MenüStripVeRichTextBoxKullanimi.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\obj\Debug\MenüStripVeRichTextBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\obj\Debug\MenüStripVeRichTextBoxKullanimi.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\obj\Debug\MenüStripVeRichTextBoxKullanimi.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\obj\Debug\MenüStripVeRichTextBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\obj\Debug\MenüStripVeRichTextBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\obj\Debug\MenüStripVeRichTextBoxKullanimi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MenüStripVeRichTextBoxKullanimi\obj\Debug\MenüStripVeRichTextBoxKullanimi.pdb
